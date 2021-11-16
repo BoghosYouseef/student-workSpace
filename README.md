@@ -1,5 +1,5 @@
 # student-workSpace
-This is for tracking all the files for my student job
+This is for tracking all the files for my student job \n
 
 { NOT YET COMPLETE DUE TO TECHNICAL ERROR}
 
